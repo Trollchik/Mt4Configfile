@@ -1,6 +1,0 @@
-context:
-  trades:
-    - currencyPair: USDCAD
-      controlPrice: 1.29083
-    - currencyPair: USDCHF
-      controlPrice: 0.96850
